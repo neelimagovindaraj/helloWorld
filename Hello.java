@@ -4,6 +4,7 @@ public class Hello {
         int myFirstNumber = 12;
         System.out.println("+as string concatinator gives 1212-->"+myFirstNumber+myFirstNumber);
         System.out.println("myFirstNumbe it adds herer-->"+(myFirstNumber+myFirstNumber));
+        System.out.println("myFirstNumbe it adds herer-->"+(myFirstNumber+myFirstNumber));
     }
 
 }
